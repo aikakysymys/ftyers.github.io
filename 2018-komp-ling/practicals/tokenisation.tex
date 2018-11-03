@@ -1,0 +1,36 @@
+
+
+\end\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+
+%SetFonts
+
+%SetFonts
+
+
+\title{Brief Article}
+\author{The Author}
+%\date{}							% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+\section{1}
+%\subsection{}
+There are two of maxmatches in the provided .ipynb, one time and the other I found on the Internet. One starts to collect tokens from the longest last word (mine), the other starts with the longest first word. I had a hypothesis that there might be some difference in their performance, but it proved to be wrong: the output is identical, providing the dictionary is the same.
+
+\section{2}
+
+To use it, open your files, readline() them and feed lines to maxmatch line by line. The output will be a list of tokens per each line.
+
+\section{3}. In general, it works very well on Japanese. I tried to tokenise sentences with a full dictionary, and there were no mistakes the the output.
+ However, if the dictionary does not contain the words needed, tokenisation quality does. Wer.py shows roughly 40\% accuracy on the small chunks I managed to feed it.
+ As I can see, provided the words are in the dictionary, all of them are recognised. You can imagine mistakes of the type: a longer and a shorter word in the dict, maxmatch takes the longest one when the shorter one is needed, and makes al least two mistakes: the first word is to long, the one next to it too short. I haven’t encountered such mistakes in the Japanese files I used, maybe because the data was limited.
+
+
+\end{document}  
