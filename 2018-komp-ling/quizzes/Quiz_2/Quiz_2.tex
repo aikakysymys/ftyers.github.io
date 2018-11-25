@@ -1,0 +1,67 @@
+
+
+Quiz 2
+
+
+1. 
+( "drawing_1" in the folder)
+
+2. 
+Examples: 1)"He's got", 2) "Mary's cat". To fix "He's got", I would compose something like:
+ 's:~is <= _ [epsilon]<v><3form>:
+ To fix  "Mary's cat",  's:~is <= _ [[epsilon]<adj>* epsilon]<n>*:  <v><3form>+:
+ 
+ 3. 
+ yes: a) b) c) 
+ maybe not that d), as there is such a variety of regular expressions used
+ 
+4. 
+Non-working strategies:
+
+a) Using the rewrite rules without changes.
+
+From the reading: 
+
+(10) 
+(a)	k:v <=> u _ u C [#: | C]
+(b)	k:[epsilon] <= V _ V C [#: | C]
+ As u belongs to V (vowels), this will result in a conflict.
+
+c) Subtracting the context of the more general rule from the more specific
+
+It's nonsense, as the general rule will include the specific rule, conflict is inevitable, for example:
+
+k:[epsilon] <=	[u - V]	_	[u - V] C [#: | C]
+       			[u - V]	_	u C [#: | C]
+       		      	u	_	[u - V] C [#: | C]
+
+
+Working strategies:
+
+b) Underspecifying the rewrite rules
+
+(11) 
+(a)	k:v <=> u _ u C [#: | C]	
+(b)	k:[epsilon] | k:v <= V _ V C [#: | C]
+Here (b) is underspecified, as there is | (or) in the left part, where there was a specified output in the rewrite rules.
+
+d) Subtracting the context of the more specific rule from the more general.
+
+(10) 
+(b')	k:[epsilon] <=	[V - u]	_	[V - u] C [#: | C]
+       				[V - u]	_	u C [#: | C]
+       		      			u	_	[V - u] C [#: | C]
+
+5.
+
+ SOFT = ch sh tz _s _x
+       [SOFT]<PL>:[SOFT]es 
+       __<PL>:__s
+0) I noticed but decided to disregard the fact that words where final consonants double are not covered by the given rule.
+1) diagram: "drawing_2" in the folder
+2) q5_plural.py in the folder
+
+
+
+
+\end
