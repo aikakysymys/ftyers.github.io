@@ -1,0 +1,1 @@
+In the reports you will find the .lexc and .twal content at different stages of the practical with the additional files I needed to make along the way, the terminal commands I used and the output I got. Though the last steps were not that fruitful, I have tried everything the practical offers.
