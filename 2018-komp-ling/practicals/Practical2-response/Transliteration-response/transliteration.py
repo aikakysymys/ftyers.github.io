@@ -1,6 +1,9 @@
 import sys
+"""
+Russian letters -> Latin letters
 
-#je jo ju ja ts ch sh sch  ;; сч - sch
+#quick draft dict preparation
+#je jo ju ja ; сч - sch
 keys = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
 kl = list(keys + keys.upper())
 values = 'abvgdeozzijklmnoprstufhtcss\'i\'eua'
@@ -13,31 +16,46 @@ for w in coder:
 fd.close()
 
 freq = []
-
-fd = open('dict1.txt', 'r')
-for line in fd.readlines():
-	line = line.strip('\n')
-	(f, w) = line.split('\t')
-	freq.append((f, w))
-fd.close()
+"""
 
 
-for letter in sent: # шифруем предложение побуквенно
-    if letter in coder:
-        u.append(coder[letter])
-    elif letter not in coder:
-        u.append(letter)
+dict_code = {} # dict to store frequency list
+coder = open('dict1.txt', 'r')
+
+for line in coder.readlines():
+	if '\t' not in line:
+		continue
+	row = line.split('\t')
+	# if there are not 2 cells, skip the line
+	if len(row) != 2:
+		continue
+	# the sourse letter is the value of the first cell
+	sourse = row[0]
+	# the target letter is the value of the second cell
+	dict_code[sourse] = row[1].strip('\n')
+
+print(dict_code)
+
+coder.close()
+vow = list('аоуиыэеёюя\n ')
+
+u = []
+
+for line in sys.stdin.readlines():
+	for letter in line:  # шифруем предложение побуквенно
+		if letter in dict_code:
+			if letter in vow:
+				if letter in list('еёюя'):
+					if letter[-1] in list('aouie\n '):
+						u.append('j')
+				elif letter in list('еёюя'.upper()):
+					u.append('J')
+			u.append(dict_code[letter])
+		elif letter not in dict_code:
+			u.append(letter)
 
 
-freq = []
-
-
-fd = open('text.txt', 'r')
-for line in fd.readlines():
-	line = line.strip('\n')
-	(f, w) = line.split('\t')
-	freq.append((f, w))
-
-
+c_s = ''.join(u)
+print(c_s)
 
 
