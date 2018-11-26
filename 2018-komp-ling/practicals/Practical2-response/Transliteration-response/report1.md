@@ -1,10 +1,28 @@
 Question:
-
 What do you think we would get if we set the argument reverse to False ?
-
 Answer: 
-
 We'll get the less frequent words first, not the most frequent.
+
+Question:
+Do you notice anything interesting in the data ? Do you think you could make the code more efficient ? (hint: we are looping through the data twice)
+Answer: 
+I avoided double iteration by adding the needed action to the first "for".
+
+Question:
+What to do with ambiguous letters ? For example, Cyrillic `е' could be either je or e.
+Answer: 
+To use re, as I did, to prepare file lines for symbol-for-symbol transliteration
+
+Question:
+Can you think of a way that you could provide mappings from many characters to one character ?
+For example sh → ш or дж → c ?
+Answer:
+To use re after the symbol-for-symbol transliteration to change pairs of symbols for one symbol.
+
+Question:
+How might you make different mapping rules for characters at the beginning or end of the string ?
+Answer:
+To make a list of characters out of a line and to take the [o] item, if it is X: (...), elif it is Y: (...)
 
 
 

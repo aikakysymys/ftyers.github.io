@@ -1,9 +1,10 @@
 import sys
+import re
+
 """
 Russian letters -> Latin letters
 
-#quick draft dict preparation
-#je jo ju ja ; сч - sch
+#quick draft dict preparation (this dict needed adjustment, became dict1)
 keys = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
 kl = list(keys + keys.upper())
 values = 'abvgdeozzijklmnoprstufhtcss\'i\'eua'
@@ -34,28 +35,24 @@ for line in coder.readlines():
 	# the target letter is the value of the second cell
 	dict_code[sourse] = row[1].strip('\n')
 
-print(dict_code)
-
 coder.close()
-vow = list('аоуиыэеёюя\n ')
-
-u = []
-
-for line in sys.stdin.readlines():
-	for letter in line:  # шифруем предложение побуквенно
-		if letter in dict_code:
-			if letter in vow:
-				if letter in list('еёюя'):
-					if letter[-1] in list('aouie\n '):
-						u.append('j')
-				elif letter in list('еёюя'.upper()):
-					u.append('J')
-			u.append(dict_code[letter])
-		elif letter not in dict_code:
-			u.append(letter)
 
 
-c_s = ''.join(u)
-print(c_s)
+def transliterator():
+	vow = list('аоуиыэеёюя\n ')
+	u = []
+	for line in sys.stdin.readlines():
+		line = re.sub(r'([аоуиыэеёюя\n ])([еёюя])', r'\1j\2', line)
+		print(line)
+		for letter in line:  # letter turns into another letter 
+			if letter in dict_code:
+				u.append(dict_code[letter])
+			elif letter not in dict_code:
+				u.append(letter)
+	result = ''.join(u)
+	return result
+
+
+print(transliterator())
 
 
