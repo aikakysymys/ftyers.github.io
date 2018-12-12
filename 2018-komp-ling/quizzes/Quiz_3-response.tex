@@ -1,0 +1,64 @@
+
+
+Quiz 3
+
+
+1. Question
+In the reading, it is claimed that to implement a morphological disambiguator for an unseen language, it takes roughly the same amount of time whether annotating a corpus to train on versus writing constraint grammar rules.
+
+a) Give an argument for why constraint grammar rules are more valuable
+
+b) Give an argument for why corpus annotation and HMM training is more valuable
+
+Which would you prefer?
+
+Answer
+
+a) no bias caused by numerousness of annotators. Little data
+
+b) if there is an annotated corpus already (creation of which takes up approximately as much time as writing constraint grammar rules), different statistical methods can be applied quickly. In case of n-gram HMM taggers exceptions to constraint rules (which inevitably arise) might be covered by the words-in-the-window probabilities.
+
+
+2. Question
+Can the two systems be used together? Explain.
+ 
+ Answer
+Yes, they can. For example, a rule-based disambiguator can be used on a corpus, and then annotators can evaluate or/and correct it's choices (which takes significantly less time than every-word-annotation) to prepare the corpus for better HMM training.
+
+
+ 3. Question
+Give a sentence with morphosyntactic ambiguity. What would you expect a disambiguator to do in this situation? What can you do?
+ 
+ Answer
+  Sentence: Лука нарезал быстро. [Лука  Nom] vs [лук  Gen] (+ нарéзал vs нарезáл, perfective aspect vs imperfective aspect)
+   In this case a disambiguator could add more weight to 'Лука Nom' if there were instances of 'Лука' lemma in the juxtaposed sentences around the ambiguous form. It also could add more weight to perfective aspect vs imperfective aspect of 'нарезал' if there were instances of such verb tags in surrounding sentences. But this is probably a too difficult case for a disambiguator, although I would follow the logic described above, so I'll give another example:
+   
+  Sentence: Эта картина мне дорога. [дорогá  ADJ] vs [дорóга  NOUN] 
+   I would expect al least such a rule from a rule-based disambiguator: if in -1 posotion there is a noun in Gen, then it 'дорога' is an adjective.
+   I would like an HMM tagger to be al least bigram to be able to lower the probability of a noun in such (-1 noun in Gen) context.
+  
+ 
+ 4. Question
+
+Non-working strategies:
+Choose several (>2) quantities that evaluate the quality of a morphological disambiguator, and describe how to compute them. Describe what it would mean to have disambiguators which differ in quality based on which quantity is used.
+Suggested quantities: false positive, false negative, precision, recall.
+
+Answer
+
+Computing
+- false positive: the number of all tags where the tagger selected the wrong label devided and the gold standard
+- false negative
+- precision
+- recall
+- accuracy: the number of all tags where the tagger and the gold standard labels agree devided by the overall number of tags 
+
+A better disambiguator would have bigger numbers in ... and smaller numbers in ...
+
+5. Question
+Give an example where an n-gram HMM performs better than a unigram HMM tagger.
+
+Answer
+He decided not to jail them.
+'jail' as a noun is more frequently used, so unigram HMM tagger would likely label it as a noun, not a verb, which it really is. 
+
