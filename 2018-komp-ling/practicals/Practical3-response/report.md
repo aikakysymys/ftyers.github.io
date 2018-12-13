@@ -93,5 +93,5 @@ I'd get all the due output and a list made of filename and characters I mentione
 Question:
 What might be a simple improvement to the language model for languages with orthographic case ?
 Answer:
-If, like in German, where nouns are always upper-case, some part of speech is marked with capital letter, this feature could be used to give more weight to the corresponding to capitalisation class.
+If, like in German, where nouns are always upper-case, some part of speech is marked with capital letter, this feature could be used to give more weight to the corresponding to capitalisation class (if the word is not the first in the sentence).
 
