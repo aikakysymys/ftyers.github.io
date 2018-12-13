@@ -47,13 +47,13 @@ Suggested quantities: false positive, false negative, precision, recall.
 Answer
 
 Computing
-- false positive: the number of all tags where the tagger selected the wrong label devided and the gold standard
-- false negative
-- precision
-- recall
-- accuracy: the number of all tags where the tagger and the gold standard labels agree devided by the overall number of tags 
+- false positive: take the number of all tags where the tagger selected the label as right that the gold standard indicates wrong.
+- false negative: take the number of all tags where the tagger didn't select the label as right that the gold standard indicates right.
+- precision: the number of all tags where the tagger and the gold standard labels agree devided by the sum of the same number and the number of tags the disambiguator selected as right which were actually wrong.
+- recall: the number of all tags where the tagger and the gold standard labels agree devided by the sum of the same number and the number of tags the disambiguator selected as wrong which were actually right.
+- accuracy: the number of all tags where the tagger and the gold standard labels agree devided by the overall number of tags prescribed
 
-A better disambiguator would have bigger numbers in ... and smaller numbers in ...
+A better disambiguator would have bigger numbers in precision and recall rates and smaller numbers in both false positive and false negative rates, while accuracy might have not so much to do with the quality of the disambiguator as the input data might be unbalanced (for example, the bulk part of the words are classified easily, and all tricky cases form little classes differentiating which better is actually the main goal of the disambiguator).
 
 5. Question
 Give an example where an n-gram HMM performs better than a unigram HMM tagger.
