@@ -35,4 +35,3 @@ for line in sys.stdin.readlines():
         stem = '_'
         zkod = '_'
         ipa = '_'
-
