@@ -1,0 +1,1138 @@
+# sent_id = 2011Tekhnologii.xml_15
+# text = В результате мы стремительно бежим вперед, разбрасывая по дороге очень ценные и нужные вещи.
+1	В	в	ADP	_	_	2	case	2:case	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	5	nsubj	5:nsubj	_
+4	стремительно	стремительно	ADV	_	Degree=Pos	5	advmod	5:advmod	_
+5	бежим	бежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	вперед	вперед	ADV	_	Degree=Pos	5	advmod	5:advmod	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	разбрасывая	разбрасывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	5:advcl	_
+9	по	по	ADP	_	_	10	case	10:case	_
+10	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	8:obl	_
+11	очень	очень	ADV	_	Degree=Pos	12	obl	12:obl	_
+12	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	15:amod	_
+13	и	и	CCONJ	_	_	14	cc	14:cc	_
+14	нужные	нужный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	conj	12:conj	_
+15	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	8:obj	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_16
+# text = И в какой-то момент понимаем, что остаемся без них, как без рук.
+1	И	и	CCONJ	_	_	5	cc	5:cc	_
+2	в	в	ADP	_	_	4	case	4:case	_
+3	какой-то	какой-то	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	4:det	_
+4	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	5:obl	_
+5	понимаем	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	8:punct	_
+7	что	что	SCONJ	_	_	8	mark	8:mark	_
+8	остаемся	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	5:ccomp	_
+9	без	без	ADP	_	_	10	case	10:case	_
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	8	obl	8:obl	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	14:punct	_
+12	как	как	SCONJ	_	_	14	mark	14:mark	_
+13	без	без	ADP	_	_	14	case	14:case	_
+14	рук	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	10:nmod	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_17
+# text = Да, я говорю не о банальной ностальгии, а именно о практической нехватке того, чем мы привыкли забивать, в лучшем случае, чердаки, а в худшем - помойки.
+1	Да	да	PART	_	_	4	parataxis	4:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	4:nsubj	_
+4	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	не	не	PART	_	_	8	advmod	8:advmod	_
+6	о	о	ADP	_	_	8	case	8:case	_
+7	банальной	банальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	8:amod	_
+8	ностальгии	ностальгия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	14:punct	_
+10	а	а	CCONJ	_	_	14	cc	14:cc	_
+11	именно	именно	PART	_	_	14	advmod	14:advmod	_
+12	о	о	ADP	_	_	14	case	14:case	_
+13	практической	практический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	_
+14	нехватке	нехватка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	8:conj	_
+15	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	14:nmod	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	19:punct	_
+17	чем	что	PRON	_	Case=Ins	20	obl	20:obl	_
+18	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	19	nsubj	19:nsubj	_
+19	привыкли	привыкнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	15:acl:relcl	_
+20	забивать	забивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	19:xcomp	SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	26:punct	_
+22	в	в	ADP	_	_	24	case	24:case	_
+23	лучшем	лучший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	24:amod	_
+24	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	nmod	26:nmod	SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	24:punct	_
+26	чердаки	чердак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	20:obj	SpaceAfter=No
+27	,	,	PUNCT	_	_	32	punct	32:punct	_
+28	а	а	CCONJ	_	_	32	cc	32:cc	_
+29	в	в	ADP	_	_	30	case	30:case	_
+30	худшем	худший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	32	obl	32:obl	_
+31	-	-	PUNCT	_	_	30	punct	30:punct	_
+32	помойки	помойка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	26	conj	26:conj	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_18
+# text = Вы еще помните, что такое диафильмы?
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	3	nsubj	3:nsubj	_
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+3	помните	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	что	что	PRON	_	Case=Nom	3	obl	3:obl	_
+6	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	det	5:det	_
+7	диафильмы	диафильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
+8	?	?	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_19
+# text = Вы не можете этого не помнить.
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	3	nsubj	3:nsubj	_
+2	не	не	PART	_	_	3	advmod	3:advmod	_
+3	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	6:obl	_
+5	не	не	PART	_	_	6	advmod	6:advmod	_
+6	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_20
+# text = Это был целый ритуал: сначала мама вывешивает на стену простыню, потом открывает тяжелый проектор, затем вместе с ней вы продеваете пленку через все нужные пазухи и, наконец, вот она - волшебная картинка.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+3	целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
+4	ритуал	ритуал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	4:punct	_
+6	сначала	сначала	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+7	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
+8	вывешивает	вывешивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
+9	на	на	ADP	_	_	10	case	10:case	_
+10	стену	стена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	8:obl	_
+11	простыню	простыня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	14:punct	_
+13	потом	потом	ADV	_	Degree=Pos	14	advmod	14:advmod	_
+14	открывает	открывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+15	тяжелый	тяжелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	16:amod	_
+16	проектор	проектор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	SpaceAfter=No
+17	,	,	PUNCT	_	_	23	punct	23:punct	_
+18	затем	затем	ADV	_	Degree=Pos	23	advmod	23:advmod	_
+19	вместе	вместе	ADV	_	Degree=Pos	23	advmod	23:advmod	_
+20	с	с	ADP	_	_	21	case	21:case	_
+21	ней	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	19	obl	19:obl	_
+22	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	23	nsubj	23:nsubj	_
+23	продеваете	продевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+24	пленку	пленка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	23:obj	_
+25	через	через	ADP	_	_	28	case	28:case	_
+26	все	весь	DET	_	Case=Acc|Number=Plur	28	det	28:det	_
+27	нужные	нужный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	28	amod	28:amod	_
+28	пазухи	пазуха	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obl	23:obl	_
+29	и	и	CCONJ	_	_	33	cc	33:cc	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	31:punct	_
+31	наконец	наконец	ADV	_	Degree=Pos	33	parataxis	33:parataxis	SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	31:punct	_
+33	вот	вот	PART	_	_	8	conj	8:conj	_
+34	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	33	nsubj	33:nsubj	_
+35	-	-	PUNCT	_	_	37	punct	37:punct	_
+36	волшебная	волшебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	37	amod	37:amod	_
+37	картинка	картинка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	appos	34:appos	SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_21
+# text = Одна, вторая третья.
+1	Одна	один	NUM	_	Case=Nom|Gender=Fem	0	root	0:root	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	3:punct	_
+3	вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	1:conj	_
+4	третья	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	1:conj	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_22
+# text = И мамин голос, который читает уже выученный вами наизусть текст.
+1	И	и	CCONJ	_	_	3	cc	3:cc	_
+2	мамин	мамин	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
+3	голос	голос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	_
+5	который	который	PRON	_	Case=Nom	6	nsubj	6:nsubj	_
+6	читает	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	_
+7	уже	уже	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+8	выученный	выучить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	11:acl	_
+9	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2	8	obl	8:obl	_
+10	наизусть	наизусть	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+11	текст	текст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	6:obj	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_23
+# text = Да, это не 3D, не компьютерная графика и даже не классический мультфильм.
+1	Да	да	PART	_	_	5	parataxis	5:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
+4	не	не	PART	_	_	5	advmod	5:advmod	_
+5	3D	3D	PROPN	_	Foreign=Yes	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	9:punct	_
+7	не	не	PART	_	_	8	advmod	8:advmod	_
+8	компьютерная	компьютерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	_
+9	графика	графика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	5:conj	_
+10	и	и	CCONJ	_	_	14	cc	14:cc	_
+11	даже	даже	PART	_	_	12	advmod	12:advmod	_
+12	не	не	PART	_	_	13	advmod	13:advmod	_
+13	классический	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	14:amod	_
+14	мультфильм	мультфильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	5:conj	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_24
+# text = Это намного лучше.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+2	намного	намного	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+3	лучше	хороший	ADJ	_	Degree=Cmp	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_25
+# text = Спросите у вашего детского психолога, и он подтвердит: диафильм - замечательное средство общения родителя с ребенком и мощное средство развития детского воображения.
+1	Спросите	спросить	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	у	у	ADP	_	_	5	case	5:case	_
+3	вашего	ваш	DET	_	Case=Gen|Gender=Masc|Number=Sing	5	det	5:det	_
+4	детского	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+5	психолога	психолог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	obl	1:obl	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	9:punct	_
+7	и	и	CCONJ	_	_	9	cc	9:cc	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	9:nsubj	_
+9	подтвердит	подтвердить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	1:conj	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	9:punct	_
+11	диафильм	диафильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	_
+12	-	-	PUNCT	_	_	11	punct	11:punct	_
+13	замечательное	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	14:amod	_
+14	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	obl	9:obl	_
+15	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	14:nmod	_
+16	родителя	родитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	15:nmod	_
+17	с	с	ADP	_	_	18	case	18:case	_
+18	ребенком	ребенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	nmod	15:nmod	_
+19	и	и	CCONJ	_	_	21	cc	21:cc	_
+20	мощное	мощный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	21:amod	_
+21	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	conj	14:conj	_
+22	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	21:nmod	_
+23	детского	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	24:amod	_
+24	воображения	воображение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	22:nmod	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_26
+# text = Большинство современных мультиков отключают творческий аппарат, вынуждают сознание ребенка плыть по течению.
+1	Большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+2	современных	современный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	3:amod	_
+3	мультиков	мультик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	_
+4	отключают	отключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	творческий	творческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
+6	аппарат	аппарат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	4:obj	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	вынуждают	вынуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
+9	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	8:obj	_
+10	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	_
+11	плыть	плыть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	8:xcomp	_
+12	по	по	ADP	_	_	13	case	13:case	_
+13	течению	течение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	obl	11:obl	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_27
+# text = Диафильм - совсем другое дело.
+1	Диафильм	диафильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+2	-	-	PUNCT	_	_	1	punct	1:punct	_
+3	совсем	совсем	ADV	_	Degree=Pos	4	obl	4:obl	_
+4	другое	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	_
+5	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_28
+# text = Глядя на скромные картинки, ребенок оживляет их в своем воображении, домысливает ситуации, учится конструировать жизненные сюжеты и стратегии.
+1	Глядя	глядеть	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	7:advcl	_
+2	на	на	ADP	_	_	4	case	4:case	_
+3	скромные	скромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	4:amod	_
+4	картинки	картинка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obl	1:obl	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	1:punct	_
+6	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	7:nsubj	_
+7	оживляет	оживлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+8	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	7	obj	7:obj	_
+9	в	в	ADP	_	_	11	case	11:case	_
+10	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	11	det	11:det	_
+11	воображении	воображение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	7:obl	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	13:punct	_
+13	домысливает	домысливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	7:conj	_
+14	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	13:obj	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	16:punct	_
+16	учится	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	7:conj	_
+17	конструировать	конструировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	16:xcomp	_
+18	жизненные	жизненный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	19:amod	_
+19	сюжеты	сюжет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	17:obj	_
+20	и	и	CCONJ	_	_	21	cc	21:cc	_
+21	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	conj	19:conj	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = 2011Tekhnologii.xml_29
+# text = Или взять, например, стационарный телефон.
+1	Или	или	CCONJ	_	_	2	cc	2:cc	_
+2	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	например	например	ADV	_	Degree=Pos	2	parataxis	2:parataxis	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
+6	стационарный	стационарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
+7	телефон	телефон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = 2011Tekhnologii.xml_30
+# text = Дисковый и с трубой на проводе.
+1	Дисковый	дисковый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	_
+2	и	и	CCONJ	_	_	4	cc	4:cc	_
+3	с	с	ADP	_	_	4	case	4:case	_
+4	трубой	труба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	conj	1:conj	_
+5	на	на	ADP	_	_	6	case	6:case	_
+6	проводе	провод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	4:nmod	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_31
+# text = На мой взгляд, в домашних условиях он гораздо лучше мобильного и даже радиотелефона образца девяностых.
+1	На	на	ADP	_	_	3	case	3:case	_
+2	мой	мой	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	3:det	_
+3	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	parataxis	10:parataxis	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	_
+5	в	в	ADP	_	_	7	case	7:case	_
+6	домашних	домашний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	7:amod	_
+7	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	10:obl	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	10:nsubj	_
+9	гораздо	гораздо	ADV	_	Degree=Pos	10	advmod	10:advmod	_
+10	лучше	хороший	ADJ	_	Degree=Cmp	0	root	0:root	_
+11	мобильного	мобильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	obl	10:obl	_
+12	и	и	CCONJ	_	_	14	cc	14:cc	_
+13	даже	даже	PART	_	_	14	advmod	14:advmod	_
+14	радиотелефона	радиотелефон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	11:conj	_
+15	образца	образец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
+16	девяностых	девяностый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	obl	15:obl	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	10:punct	_
+
+# sent_id = 2011Tekhnologii.xml_32
+# text = Да, диском номер набирается дольше, но зато как успокаивает сам процесс!
+1	Да	да	PART	_	_	5	parataxis	5:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	диском	диск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl	_
+4	номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	5:nsubj:pass	_
+5	набирается	набирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+6	дольше	долго	ADV	_	Degree=Cmp	5	advmod	5:advmod	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	11:punct	_
+8	но	но	CCONJ	_	_	11	cc	11:cc	_
+9	зато	зато	PART	_	_	11	advmod	11:advmod	_
+10	как	как	ADV	_	Degree=Pos	11	advmod	11:advmod	_
+11	успокаивает	успокаивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	_
+12	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	13:amod	_
+13	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
+14	!	!	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_33
+# text = Да, с пристегнутой к аппарату трубкой невозможно свободно перемещаться по квартире, зато это позволяет говорить меньше и концентрироваться на разговоре.
+1	Да	да	PART	_	_	8	parataxis	8:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	с	с	ADP	_	_	7	case	7:case	_
+4	пристегнутой	пристегнуть	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	7:acl	_
+5	к	к	ADP	_	_	6	case	6:case	_
+6	аппарату	аппарат	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	4:obl	_
+7	трубкой	трубка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	8:obl	_
+8	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	_
+9	свободно	свободно	ADV	_	Degree=Pos	10	advmod	10:advmod	_
+10	перемещаться	перемещаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	csubj	8:csubj	_
+11	по	по	ADP	_	_	12	case	12:case	_
+12	квартире	квартира	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	10:obl	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	16:punct	_
+14	зато	зато	CCONJ	_	_	16	cc	16:cc	_
+15	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	16:nsubj	_
+16	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+17	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	16:xcomp	_
+18	меньше	мало	NUM	_	_	17	advmod	17:advmod	_
+19	и	и	CCONJ	_	_	20	cc	20:cc	_
+20	концентрироваться	концентрироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	17	conj	17:conj	_
+21	на	на	ADP	_	_	22	case	22:case	_
+22	разговоре	разговор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	20:obl	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2011Tekhnologii.xml_34
+# text = Не говоря уже о том, что такой телефон, в отличие от мобильного, не теряется и не сверлит излучением мозги.
+1	Не	не	PART	_	_	2	advmod	2:advmod	_
+2	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	0:root	_
+3	уже	уже	ADV	_	Degree=Pos	5	obl	5:obl	_
+4	о	о	ADP	_	_	5	case	5:case	_
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	2:obl	SpaceAfter=No
+6	,	,	PUNCT	_	_	17	punct	17:punct	_
+7	что	что	SCONJ	_	_	17	mark	17:mark	_
+8	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	9	det	9:det	_
+9	телефон	телефон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	17:nsubj	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	_
+11	в	в	ADP	_	_	14	case	14:case	_
+12	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	fixed	11:fixed	_
+13	от	от	ADP	_	_	11	fixed	11:fixed	_
+14	мобильного	мобильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	obl	17:obl	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	14:punct	_
+16	не	не	PART	_	_	17	advmod	17:advmod	_
+17	теряется	теряться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	acl	5:acl	_
+18	и	и	CCONJ	_	_	20	cc	20:cc	_
+19	не	не	PART	_	_	20	advmod	20:advmod	_
+20	сверлит	сверлить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	17:conj	_
+21	излучением	излучение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	20:obl	_
+22	мозги	мозг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	20:obj	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = 2011Tekhnologii.xml_35
+# text = Ну, и, наконец, стационарный телефон - это элемент организации жизненного пространства.
+1	Ну	ну	PART	_	_	11	parataxis	11:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	и	и	PART	_	_	5	advmod	5:advmod	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	наконец	наконец	ADV	_	Degree=Pos	11	parataxis	11:parataxis	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	стационарный	стационарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
+8	телефон	телефон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	11:nsubj	_
+9	-	-	PUNCT	_	_	8	punct	8:punct	_
+10	это	это	PRON	_	_	11	cop	11:cop	_
+11	элемент	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
+12	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	_
+13	жизненного	жизненный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	14:amod	_
+14	пространства	пространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	11:punct	_
+
+# sent_id = 2011Tekhnologii.xml_36
+# text = Там, где он живет, всегда уютно, это место с годами обрастает каким-то особым флером, становится семейной ценностью.
+1	Там	там	ADV	_	Degree=Pos	8	advmod	8:advmod	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	где	где	ADV	_	Degree=Pos	5	advmod	5:advmod	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	5:nsubj	_
+5	живет	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	1:acl:relcl	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	_
+7	всегда	всегда	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+8	уютно	уютный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	14:punct	_
+10	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	11	det	11:det	_
+11	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	14:nsubj	_
+12	с	с	ADP	_	_	13	case	13:case	_
+13	годами	год	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	14:obl	_
+14	обрастает	обрастать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+15	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing	17	det	17:det	_
+16	особым	особый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
+17	флером	флер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	14:obl	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	19:punct	_
+19	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	8:conj	_
+20	семейной	семейный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	amod	21:amod	_
+21	ценностью	ценность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	obl	19:obl	SpaceAfter=No
+22	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2011Tekhnologii.xml_37
+# text = Или вот радиоточка.
+1	Или	или	CCONJ	_	_	3	cc	3:cc	_
+2	вот	вот	PART	_	_	3	advmod	3:advmod	_
+3	радиоточка	радиоточка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_38
+# text = Ее, в отличие от вышеперечисленного, совсем не жалко, за исключением одного - утренней гимнастики.
+1	Ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	10	obl	10:obl	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	в	в	ADP	_	_	6	case	6:case	_
+4	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	fixed	3:fixed	_
+5	от	от	ADP	_	_	3	fixed	3:fixed	_
+6	вышеперечисленного	вышеперечисленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	obl	10:obl	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	6:punct	_
+8	совсем	совсем	ADV	_	Degree=Pos	9	advmod	9:advmod	_
+9	не	не	PART	_	_	10	advmod	10:advmod	_
+10	жалко	жалко	ADV	_	Degree=Pos	0	root	0:root	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	14:punct	_
+12	за	за	ADP	_	_	14	case	14:case	_
+13	исключением	исключение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	fixed	12:fixed	_
+14	одного	один	NUM	_	Case=Gen|Gender=Masc	10	nummod	10:nummod	_
+15	-	-	PUNCT	_	_	17	punct	17:punct	_
+16	утренней	утренний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	17:amod	_
+17	гимнастики	гимнастика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	parataxis	14:parataxis	SpaceAfter=No
+18	.	.	PUNCT	_	_	10	punct	10:punct	_
+
+# sent_id = 2011Tekhnologii.xml_39
+# text = Как она организовывала время!
+1	Как	как	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	nsubj	3:nsubj	_
+3	организовывала	организовывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	SpaceAfter=No
+5	!	!	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_40
+# text = Как с утра настраивала на позитивный лад!
+1	Как	как	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+2	с	с	ADP	_	_	3	case	3:case	_
+3	утра	утро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	4:obl	_
+4	настраивала	настраивать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	на	на	ADP	_	_	7	case	7:case	_
+6	позитивный	позитивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
+7	лад	лад	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	4:obl	SpaceAfter=No
+8	!	!	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_41
+# text = А какое колдовское воздействие имела фраза "переходим к водным процедурам"!
+1	А	а	CCONJ	_	_	5	cc	5:cc	_
+2	какое	какой	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	4:det	_
+3	колдовское	колдовской	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	_
+4	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	5:obj	_
+5	имела	иметь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	фраза	фраза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+7	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+8	переходим	переходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	appos	6:appos	_
+9	к	к	ADP	_	_	11	case	11:case	_
+10	водным	водный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	11	amod	11:amod	_
+11	процедурам	процедура	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	8	obl	8:obl	SpaceAfter=No
+12	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
+13	!	!	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_42
+# text = Мне тут подсказывают, что в диапазоне FM и сегодня есть нечто подобное.
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	3	iobj	3:iobj	_
+2	тут	тут	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+3	подсказывают	подсказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	7:punct	_
+5	что	что	SCONJ	_	_	7	mark	7:mark	_
+6	в	в	ADP	_	_	7	case	7:case	_
+7	диапазоне	диапазон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	ccomp	3:ccomp	_
+8	FM	FM	PROPN	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	_
+9	и	и	PART	_	_	10	advmod	10:advmod	_
+10	сегодня	сегодня	ADV	_	Degree=Pos	7	advmod	7:advmod	_
+11	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
+12	нечто	нечто	PRON	_	Case=Nom	7	nsubj	7:nsubj	_
+13	подобное	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	12:amod	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_43
+# text = Но это не то.
+1	Но	но	CCONJ	_	_	4	cc	4:cc	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+3	не	не	PART	_	_	4	advmod	4:advmod	_
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_44
+# text = Когда выбор радиостанций слишком велик, традиции взаимодействия с радиоприемником не клеятся, не налаживаются.
+1	Когда	когда	SCONJ	_	_	5	mark	5:mark	_
+2	выбор	выбор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+3	радиостанций	радиостанция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	2:nmod	_
+4	слишком	слишком	ADV	_	Degree=Pos	5	obl	5:obl	_
+5	велик	большой	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	advcl	12:advcl	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	традиции	традиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	12:nsubj	_
+8	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	7:nmod	_
+9	с	с	ADP	_	_	10	case	10:case	_
+10	радиоприемником	радиоприемник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	nmod	8:nmod	_
+11	не	не	PART	_	_	12	advmod	12:advmod	_
+12	клеятся	клеиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	15:punct	_
+14	не	не	PART	_	_	15	advmod	15:advmod	_
+15	налаживаются	налаживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	12:conj	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = 2011Tekhnologii.xml_45
+# text = Я уже не говорю о преимуществе авосек перед целлофановыми пакетами, высоких потолков перед низкими, об особом очаровании собственноручного печатания фотографий - по ночам, в ванной комнате, при красном свете.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	4:nsubj	_
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+3	не	не	PART	_	_	4	advmod	4:advmod	_
+4	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	о	о	ADP	_	_	6	case	6:case	_
+6	преимуществе	преимущество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+7	авосек	авоська	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	6:nmod	_
+8	перед	перед	ADP	_	_	10	case	10:case	_
+9	целлофановыми	целлофановый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	10:amod	_
+10	пакетами	пакет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	nmod	6:nmod	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	13:punct	_
+11.1	_	_	_	_	_	_	_	6:conj	_
+12	высоких	высокий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	13:amod	_
+13	потолков	потолок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	11.1:nmod	_
+14	перед	перед	ADP	_	_	15	case	15:case	_
+15	низкими	низкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	13	obl	11.1:obl	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	19:punct	_
+17	об	о	ADP	_	_	19	case	19:case	_
+18	особом	особый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	19:amod	_
+19	очаровании	очарование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	6:conj	_
+20	собственноручного	собственноручный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	21:amod	_
+21	печатания	печатание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	19:nmod	_
+22	фотографий	фотография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	21:nmod	_
+23	-	-	PUNCT	_	_	25	punct	25:punct	_
+24	по	по	ADP	_	_	25	case	25:case	_
+25	ночам	ночь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	19	parataxis	19:parataxis	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	29:punct	_
+27	в	в	ADP	_	_	29	case	29:case	_
+28	ванной	ванный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	29:amod	_
+29	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	conj	25:conj	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	33:punct	_
+31	при	при	ADP	_	_	33	case	33:case	_
+32	красном	красный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	33:amod	_
+33	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	conj	25:conj	SpaceAfter=No
+34	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_46
+# text = О медленных, но безумно приятных бумажных письмах.
+1	О	о	ADP	_	_	8	case	8:case	_
+2	медленных	медленный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	8:amod	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	6:punct	_
+4	но	но	CCONJ	_	_	6	cc	6:cc	_
+5	безумно	безумно	ADV	_	Degree=Pos	6	obl	6:obl	_
+6	приятных	приятный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	2	conj	2:conj	_
+7	бумажных	бумажный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	8:amod	_
+8	письмах	письмо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2011Tekhnologii.xml_47
+# text = О печатной машинке, которая, в отличие от всепрощающего компьютера, приучает к стройности мышления.
+1	О	о	ADP	_	_	3	case	3:case	_
+2	печатной	печатный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	3:amod	_
+3	машинке	машинка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	13:punct	_
+5	которая	который	PRON	_	Case=Nom	13	nsubj	13:nsubj	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	в	в	ADP	_	_	11	case	11:case	_
+8	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	fixed	7:fixed	_
+9	от	от	ADP	_	_	7	fixed	7:fixed	_
+10	всепрощающего	всепрощающий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	11:amod	_
+11	компьютера	компьютер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	13:obl	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	11:punct	_
+13	приучает	приучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	_
+14	к	к	ADP	_	_	15	case	15:case	_
+15	стройности	стройность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	13:obl	_
+16	мышления	мышление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	15:nmod	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_48
+# text = А какую важную социальную роль играли автоматы с газировкой.
+1	А	а	CCONJ	_	_	6	cc	6:cc	_
+2	какую	какой	DET	_	Case=Acc|Gender=Fem|Number=Sing	3	det	3:det	_
+3	важную	важный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
+4	социальную	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
+5	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	_
+6	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	автоматы	автомат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	6:nsubj	_
+8	с	с	ADP	_	_	9	case	9:case	_
+9	газировкой	газировка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = 2011Tekhnologii.xml_49
+# text = Они спаивали советское общество воедино, морально цементировали его.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	2:nsubj	_
+2	спаивали	спаивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	советское	советский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	_
+4	общество	общество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	_
+5	воедино	воедино	ADV	_	Degree=Pos	2	advmod	2:advmod	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	8:punct	_
+7	морально	морально	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+8	цементировали	цементировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj	_
+9	его	оно	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	8	obj	8:obj	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = 2011Tekhnologii.xml_50
+# text = Всего за 3 копейки с сиропом или за 1 без сиропа ты покупал чувство близости с ближним.
+1	Всего	всего	PART	_	_	4	advmod	4:advmod	_
+2	за	за	ADP	_	_	4	case	4:case	_
+3	3	3	NUM	_	_	4	nummod	4:nummod	_
+4	копейки	копейка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	13:obl	_
+5	с	с	ADP	_	_	6	case	6:case	_
+6	сиропом	сироп	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
+7	или	или	CCONJ	_	_	9	cc	9:cc	_
+8	за	за	ADP	_	_	9	case	9:case	_
+9	1	1	NUM	_	_	4	conj	4:conj	_
+10	без	без	ADP	_	_	9	case	9:case	_
+11	сиропа	сироп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	flat	9:flat	_
+12	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	13	nsubj	13:nsubj	_
+13	покупал	покупать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+14	чувство	чувство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	13:obj	_
+15	близости	близость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	_
+16	с	с	ADP	_	_	17	case	17:case	_
+17	ближним	ближний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	obl	15:obl	SpaceAfter=No
+18	.	.	PUNCT	_	_	13	punct	13:punct	_
+
+# sent_id = 2011Tekhnologii.xml_51
+# text = Эти автоматы были чем-то вроде инструмента советского причастия.
+1	Эти	этот	DET	_	Case=Nom|Number=Plur	2	det	2:det	_
+2	автоматы	автомат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+4	чем-то	что-то	PRON	_	Case=Ins	0	root	0:root	_
+5	вроде	вроде	ADP	_	_	6	case	6:case	_
+6	инструмента	инструмент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	4:nmod	_
+7	советского	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	8:amod	_
+8	причастия	причастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_52
+# text = У каждого гражданина внутри была частичка другого гражданина - или хотя бы ощущение, что она там есть.
+1	У	у	ADP	_	_	3	case	3:case	_
+2	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	3:det	_
+3	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	4:obl	_
+4	внутри	внутри	ADV	_	Degree=Pos	0	root	0:root	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+6	частичка	частичка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
+7	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
+8	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
+9	-	-	PUNCT	_	_	13	punct	13:punct	_
+10	или	или	CCONJ	_	_	13	cc	13:cc	_
+11	хотя	хотя	PART	_	_	13	advmod	13:advmod	_
+12	бы	бы	PART	_	_	11	fixed	11:fixed	_
+13	ощущение	ощущение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	6:conj	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	17:punct	_
+15	что	что	SCONJ	_	_	17	mark	17:mark	_
+16	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nsubj	17:nsubj	_
+17	там	там	ADV	_	Degree=Pos	13	acl	13:acl	_
+18	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	17:cop	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_53
+# text = Плюс вера в доминирующую честность: ведь никто не воровал стаканы, только в конце 90-х их стали менять на пивные кружки с ручкой, за которую можно было их пристегнуть.
+1	Плюс	плюс	ADP	_	_	2	case	2:case	_
+2	вера	вера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
+3	в	в	ADP	_	_	5	case	5:case	_
+4	доминирующую	доминировать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	5:amod	_
+5	честность	честность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+6	:	:	PUNCT	_	_	2	punct	2:punct	_
+7	ведь	ведь	PART	_	_	8	advmod	8:advmod	_
+8	никто	никто	PRON	_	Case=Nom	10	nsubj	10:nsubj	_
+9	не	не	PART	_	_	10	advmod	10:advmod	_
+10	воровал	воровать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	_
+11	стаканы	стакан	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	10:obj	SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	18:punct	_
+13	только	только	PART	_	_	15	advmod	15:advmod	_
+14	в	в	ADP	_	_	15	case	15:case	_
+15	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	18:obl	_
+16	90-х	90-ый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	nmod	15:nmod	_
+17	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	19	obj	19:obj	_
+18	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	10:conj	_
+19	менять	менять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	18:xcomp	_
+20	на	на	ADP	_	_	22	case	22:case	_
+21	пивные	пивной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	22:amod	_
+22	кружки	кружка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obl	19:obl	_
+23	с	с	ADP	_	_	24	case	24:case	_
+24	ручкой	ручка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	nmod	22:nmod	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	28:punct	_
+26	за	за	ADP	_	_	27	case	27:case	_
+27	которую	который	PRON	_	Case=Acc	28	obl	28:obl	_
+28	можно	можно	ADV	_	Degree=Pos	24	acl:relcl	24:acl:relcl	_
+29	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	cop	28:cop	_
+30	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	31	obj	31:obj	_
+31	пристегнуть	пристегнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	csubj	28:csubj	SpaceAfter=No
+32	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = 2011Tekhnologii.xml_54
+# text = Что?
+1	Что	что	PRON	_	Case=Nom	0	root	0:root	SpaceAfter=No
+2	?	?	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_55
+# text = Антисанитария?
+1	Антисанитария	антисанитария	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+2	?	?	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_56
+# text = Ну, не знаю.
+1	Ну	ну	PART	_	_	4	parataxis	4:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	не	не	PART	_	_	4	advmod	4:advmod	_
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_57
+# text = Едва ли в те времена эпидемий и отравлений было больше, чем в сегодняшнем царстве бездушной пластиковой посуды.
+1	Едва	едва	ADV	_	Degree=Pos	10	advmod	10:advmod	_
+2	ли	ли	PART	_	_	1	fixed	1:fixed	_
+3	в	в	ADP	_	_	5	case	5:case	_
+4	те	тот	DET	_	Case=Acc|Number=Plur	5	det	5:det	_
+5	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obl	10:obl	_
+6	эпидемий	эпидемия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nsubj	10:nsubj	_
+7	и	и	CCONJ	_	_	8	cc	8:cc	_
+8	отравлений	отравление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	conj	6:conj	_
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
+10	больше	больше	ADV	_	Degree=Cmp	0	root	0:root	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	15:punct	_
+12	чем	чем	SCONJ	_	_	15	mark	15:mark	_
+13	в	в	ADP	_	_	15	case	15:case	_
+14	сегодняшнем	сегодняшний	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	15:amod	_
+15	царстве	царство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	10:obl	_
+16	бездушной	бездушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	_
+17	пластиковой	пластиковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	_
+18	посуды	посуда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	15:nmod	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	10:punct	_
+
+# sent_id = 2011Tekhnologii.xml_58
+# text = Во всяком случае, мой личный желудок в восьмидесятых расстраивался гораздо реже, чем в девяностых и нулевых.
+1	Во	в	ADP	_	_	3	case	3:case	_
+2	всяком	всякий	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	3:det	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	parataxis	10:parataxis	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	3:punct	_
+5	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	7	det	7:det	_
+6	личный	личный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
+7	желудок	желудок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
+8	в	в	ADP	_	_	9	case	9:case	_
+9	восьмидесятых	восьмидесятый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	obl	10:obl	_
+10	расстраивался	расстраивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+11	гораздо	гораздо	ADV	_	Degree=Pos	12	advmod	12:advmod	_
+12	реже	редко	ADV	_	Degree=Cmp	10	advmod	10:advmod	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	16:punct	_
+14	чем	чем	SCONJ	_	_	16	mark	16:mark	_
+15	в	в	ADP	_	_	16	case	16:case	_
+16	девяностых	девяностый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	obl	12:obl	_
+17	и	и	CCONJ	_	_	18	cc	18:cc	_
+18	нулевых	нулевой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	16	conj	16:conj	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	10:punct	_
+
+# sent_id = 2011Tekhnologii.xml_59
+# text = Так что же, если не иллюзия, заставляет нас постоянно бросать одни полезные вещи ради других, еще не проверенных временем?
+1	Так	так	ADV	_	Degree=Pos	9	parataxis	9:parataxis	_
+2	что	что	PRON	_	Case=Nom	9	nsubj	9:nsubj	_
+3	же	же	PART	_	_	2	advmod	2:advmod	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	7:punct	_
+5	если	если	SCONJ	_	_	7	mark	7:mark	_
+6	не	не	PART	_	_	7	advmod	7:advmod	_
+7	иллюзия	иллюзия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	2:punct	_
+9	заставляет	заставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+10	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	9	obj	9:obj	_
+11	постоянно	постоянно	ADV	_	Degree=Pos	12	advmod	12:advmod	_
+12	бросать	бросать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	9:xcomp	_
+13	одни	один	DET	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	15:amod	_
+14	полезные	полезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	15:amod	_
+15	вещи	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	12:obj	_
+16	ради	ради	ADP	_	_	17	case	17:case	_
+17	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	obl	12:obl	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	21:punct	_
+19	еще	еще	ADV	_	Degree=Pos	21	advmod	21:advmod	_
+20	не	не	PART	_	_	21	advmod	21:advmod	_
+21	проверенных	проверить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	conj	17:conj	_
+22	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	obl	21:obl	SpaceAfter=No
+23	?	?	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = 2011Tekhnologii.xml_60
+# text = Стремление не упустить конкурентные преимущества?
+1	Стремление	стремление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	_
+2	не	не	PART	_	_	3	advmod	3:advmod	_
+3	упустить	упустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	obl	1:obl	_
+4	конкурентные	конкурентный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	5:amod	_
+5	преимущества	преимущество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	3:obj	SpaceAfter=No
+6	?	?	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_61
+# text = Я тоже так думал, пока не узнал, что, к примеру, весьма успешный основатель и владелец сети магазинов "Экспедиция" Александр Кравцов не пользуется компьютером.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	4	nsubj	4:nsubj	_
+2	тоже	тоже	PART	_	_	1	advmod	1:advmod	_
+3	так	так	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+4	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	8:punct	_
+6	пока	пока	SCONJ	_	_	8	mark	8:mark	_
+7	не	не	PART	_	_	8	advmod	8:advmod	_
+8	узнал	узнать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	SpaceAfter=No
+9	,	,	PUNCT	_	_	28	punct	28:punct	_
+10	что	что	SCONJ	_	_	28	mark	28:mark	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	13:punct	_
+12	к	к	ADP	_	_	13	case	13:case	_
+13	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	28	parataxis	28:parataxis	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	13:punct	_
+15	весьма	весьма	ADV	_	Degree=Pos	16	obl	16:obl	_
+16	успешный	успешный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
+17	основатель	основатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	28:nsubj	_
+18	и	и	CCONJ	_	_	19	cc	19:cc	_
+19	владелец	владелец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	conj	17:conj	_
+20	сети	сеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	19:nmod	_
+21	магазинов	магазин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	20:nmod	_
+22	"	"	PUNCT	_	_	23	punct	23:punct	SpaceAfter=No
+23	Экспедиция	экспедиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	appos	21:appos	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	23:punct	_
+25	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	appos	17:appos	_
+26	Кравцов	Кравцов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	flat:name	25:flat:name	_
+27	не	не	PART	_	_	28	advmod	28:advmod	_
+28	пользуется	пользоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	ccomp	8:ccomp	_
+29	компьютером	компьютер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	28	obl	28:obl	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_62
+# text = Вообще.
+1	Вообще	вообще	ADV	_	Degree=Pos	0	root	0:root	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_63
+# text = И даже ежедневником.
+1	И	и	CCONJ	_	_	3	cc	3:cc	_
+2	даже	даже	PART	_	_	3	advmod	3:advmod	_
+3	ежедневником	ежедневник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_64
+# text = Все, что ему нужно, он записывает на бумажных листах формата А4 и, как только исполняет записанное, тут же их выбрасывает.
+1	Все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	8:obj	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	что	что	PRON	_	Case=Nom	5	nsubj	5:nsubj	_
+4	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	5	iobj	5:iobj	_
+5	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	acl:relcl	1:acl:relcl	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	1:punct	_
+7	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+8	записывает	записывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	на	на	ADP	_	_	11	case	11:case	_
+10	бумажных	бумажный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	11:amod	_
+11	листах	лист	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	obl	8:obl	_
+12	формата	формат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
+13	А4	А4	PROPN	_	_	12	appos	12:appos	_
+14	и	и	CCONJ	_	_	24	cc	24:cc	SpaceAfter=No
+15	,	,	PUNCT	_	_	24	punct	24:punct	_
+16	как	как	SCONJ	_	_	18	mark	18:mark	_
+17	только	только	PART	_	_	16	fixed	16:fixed	_
+18	исполняет	исполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	24:advcl	_
+19	записанное	записать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	xcomp	18:xcomp	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	24:punct	_
+21	тут	тут	ADV	_	Degree=Pos	24	advmod	24:advmod	_
+22	же	же	PART	_	_	21	advmod	21:advmod	_
+23	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	24	obj	24:obj	_
+24	выбрасывает	выбрасывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	SpaceAfter=No
+25	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2011Tekhnologii.xml_65
+# text = А когда моя изумленная коллега по "Русскому репортеру" Ольга Тимофеева спросила у него: "Как же вы руководите?!" - он открыл ей страшную тайну: "Большая часть эффективных первых лиц, которых я знаю, предпочитает не пользоваться компьютером.
+1	А	а	CCONJ	_	_	27	cc	27:cc	_
+2	когда	когда	SCONJ	_	_	13	mark	13:mark	_
+3	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	5	det	5:det	_
+4	изумленная	изумленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
+5	коллега	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	13:nsubj	_
+6	по	по	ADP	_	_	9	case	9:case	_
+7	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+8	Русскому	русский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
+9	репортеру	репортер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	9:punct	_
+11	Ольга	Ольга	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	appos	5:appos	_
+12	Тимофеева	Тимофеева	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	11	flat:name	11:flat:name	_
+13	спросила	спросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	27:advcl	_
+14	у	у	ADP	_	_	15	case	15:case	_
+15	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	obl	13:obl	SpaceAfter=No
+16	:	:	PUNCT	_	_	13	punct	13:punct	_
+17	"	"	PUNCT	_	_	21	punct	21:punct	SpaceAfter=No
+18	Как	как	ADV	_	Degree=Pos	21	advmod	21:advmod	_
+19	же	же	PART	_	_	18	advmod	18:advmod	_
+20	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	21	nsubj	21:nsubj	_
+21	руководите	руководить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	13:ccomp	SpaceAfter=No
+22	?	?	PUNCT	_	_	21	punct	21:punct	SpaceAfter=No
+23	!	!	PUNCT	_	_	21	punct	21:punct	SpaceAfter=No
+24	"	"	PUNCT	_	_	21	punct	21:punct	_
+25	-	-	PUNCT	_	_	13	punct	13:punct	_
+26	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	nsubj	27:nsubj	_
+27	открыл	открыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+28	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	27	iobj	27:iobj	_
+29	страшную	страшный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	30	amod	30:amod	_
+30	тайну	тайна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	27:obj	SpaceAfter=No
+31	:	:	PUNCT	_	_	30	punct	30:punct	_
+32	"	"	PUNCT	_	_	43	punct	43:punct	SpaceAfter=No
+33	Большая	Большой	PROPN	_	_	34	amod	34:amod	_
+34	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	nsubj	43:nsubj	_
+35	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	37:amod	_
+36	первых	первый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	37:amod	_
+37	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	34	nmod	34:nmod	SpaceAfter=No
+38	,	,	PUNCT	_	_	41	punct	41:punct	_
+39	которых	который	PRON	_	Case=Acc	41	obj	41:obj	_
+40	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	41	nsubj	41:nsubj	_
+41	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	37	acl:relcl	37:acl:relcl	SpaceAfter=No
+42	,	,	PUNCT	_	_	34	punct	34:punct	_
+43	предпочитает	предпочитать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	parataxis	30:parataxis	_
+44	не	не	PART	_	_	45	advmod	45:advmod	_
+45	пользоваться	пользоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	43	xcomp	43:xcomp	_
+46	компьютером	компьютер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	45	obl	45:obl	SpaceAfter=No
+47	.	.	PUNCT	_	_	27	punct	27:punct	_
+
+# sent_id = 2011Tekhnologii.xml_66
+# text = Сто лет назад у серьезных предпринимателей все дела были в большем порядке, чем у пользователей ПК.
+1	Сто	сто	NUM	_	Case=Acc	2	nummod:gov	2:nummod:gov	_
+2	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod	_
+3	назад	назад	ADV	_	Degree=Pos	2	advmod	2:advmod	_
+4	у	у	ADP	_	_	6	case	6:case	_
+5	серьезных	серьезный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	6:amod	_
+6	предпринимателей	предприниматель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod	_
+7	все	весь	DET	_	Case=Nom|Number=Plur	8	det	8:det	_
+8	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	12:nsubj	_
+9	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
+10	в	в	ADP	_	_	12	case	12:case	_
+11	большем	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	12:amod	_
+12	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	16:punct	_
+14	чем	чем	SCONJ	_	_	16	mark	16:mark	_
+15	у	у	ADP	_	_	16	case	16:case	_
+16	пользователей	пользователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	obl	11:obl	_
+17	ПК	ПК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod	SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = 2011Tekhnologii.xml_67
+# text = Я не враг прогресса.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	3:nsubj	_
+2	не	не	PART	_	_	3	advmod	3:advmod	_
+3	враг	враг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
+4	прогресса	прогресс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2011Tekhnologii.xml_68
+# text = Мешает не компьютер, мешает избыточность плохо переработанной информации.
+1	Мешает	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	не	не	PART	_	_	3	advmod	3:advmod	_
+3	компьютер	компьютер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	5:punct	_
+5	мешает	мешать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
+6	избыточность	избыточность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+7	плохо	плохо	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+8	переработанной	переработать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
+9	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	_
+
+# sent_id = 2011Tekhnologii.xml_69
+# text = Новейшие технологии как инструмент движения вперед - это миф, навязанный их разработчиками и производителями.
+1	Новейшие	новый	ADJ	_	Case=Nom|Degree=Sup|Number=Plur	2	amod	2:amod	_
+2	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	9:nsubj	_
+3	как	как	SCONJ	_	_	4	mark	4:mark	_
+4	инструмент	инструмент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
+5	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod	_
+6	вперед	вперед	ADV	_	Degree=Pos	5	advmod	5:advmod	_
+7	-	-	PUNCT	_	_	2	punct	2:punct	_
+8	это	это	PRON	_	_	9	cop	9:cop	_
+9	миф	миф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	11:punct	_
+11	навязанный	навязать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	9:acl	_
+12	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	13	nmod	13:nmod	_
+13	разработчиками	разработчик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	obl	11:obl	_
+14	и	и	CCONJ	_	_	15	cc	15:cc	_
+15	производителями	производитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	conj	13:conj	SpaceAfter=No
+16	.	.	PUNCT	_	_	9	punct	9:punct	_
+
+# sent_id = 2011Tekhnologii.xml_70
+# text = Более того, именно новейшие технологии часто становятся тормозом прогресса, если только понимать под ним не скорость осуществления процесса, а эффективность полученного результата.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	2:nummod:gov	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	8:obl	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
+4	именно	именно	PART	_	_	5	advmod	5:advmod	_
+5	новейшие	новый	ADJ	_	Case=Nom|Degree=Sup|Number=Plur	6	amod	6:amod	_
+6	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	8:nsubj	_
+7	часто	часто	ADV	_	Degree=Pos	8	advmod	8:advmod	_
+8	становятся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+9	тормозом	тормоз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	8:obl	_
+10	прогресса	прогресс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	9:nmod	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	14:punct	_
+12	если	если	SCONJ	_	_	14	mark	14:mark	_
+13	только	только	PART	_	_	14	advmod	14:advmod	_
+14	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	advcl	8:advcl	_
+15	под	под	ADP	_	_	16	case	16:case	_
+16	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	14	obl	14:obl	_
+17	не	не	PART	_	_	18	advmod	18:advmod	_
+18	скорость	скорость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	14:obj	_
+19	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	18:nmod	_
+20	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	23:punct	_
+22	а	а	CCONJ	_	_	23	cc	23:cc	_
+23	эффективность	эффективность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	conj	18:conj	_
+24	полученного	получить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	amod	25:amod	_
+25	результата	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	23:nmod	SpaceAfter=No
+26	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2011Tekhnologii.xml_71
+# text = И люди бизнеса, которые вынуждены двигаться вперед по-настоящему, уже учатся разборчивости как в "новейшем", так и в "устаревшем".
+1	И	и	CCONJ	_	_	12	cc	12:cc	_
+2	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	12:nsubj	_
+3	бизнеса	бизнес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	_
+5	которые	который	PRON	_	Case=Nom	6	nsubj:pass	6:nsubj:pass	_
+6	вынуждены	вынудить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	acl:relcl	2:acl:relcl	_
+7	двигаться	двигаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	xcomp	6:xcomp	_
+8	вперед	вперед	ADV	_	Degree=Pos	7	advmod	7:advmod	_
+9	по-настоящему	по-настоящему	ADV	_	Degree=Pos	7	advmod	7:advmod	SpaceAfter=No
+10	,	,	PUNCT	_	_	6	punct	6:punct	_
+11	уже	уже	ADV	_	Degree=Pos	12	advmod	12:advmod	_
+12	учатся	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+13	разборчивости	разборчивость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	iobj	12:iobj	_
+14	как	как	SCONJ	_	_	17	mark	17:mark	_
+15	в	в	ADP	_	_	17	case	17:case	_
+16	"	"	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
+17	новейшем	новый	ADJ	_	Case=Loc|Degree=Sup|Gender=Masc|Number=Sing	13	obl	13:obl	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	24:punct	_
+20	так	так	ADV	_	Degree=Pos	24	cc	24:cc	_
+21	и	и	PART	_	_	20	fixed	20:fixed	_
+22	в	в	ADP	_	_	24	case	24:case	_
+23	"	"	PUNCT	_	_	24	punct	24:punct	SpaceAfter=No
+24	устаревшем	устаревший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	conj	17:conj	SpaceAfter=No
+25	"	"	PUNCT	_	_	24	punct	24:punct	SpaceAfter=No
+26	.	.	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = 2011Tekhnologii.xml_72
+# text = Безоговорочное принятие всего нового становится уделом плебса, признаком распущенности.
+1	Безоговорочное	безоговорочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	2:amod	_
+2	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
+3	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	2:nmod	_
+4	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	3:amod	_
+5	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+6	уделом	удел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	5:obl	_
+7	плебса	плебс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	9:punct	_
+9	признаком	признак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	conj	6:conj	_
+10	распущенности	распущенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	9:nmod	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_73
+# text = Даже церковь на днях озаботилась вопросами террора со стороны не в меру многочисленных плодов цивилизации.
+1	Даже	даже	PART	_	_	2	advmod	2:advmod	_
+2	церковь	церковь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
+3	на	на	ADP	_	_	4	case	4:case	_
+4	днях	день	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	5:obl	_
+5	озаботилась	озаботиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+6	вопросами	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	5:obl	_
+7	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	6:nmod	_
+8	со	со	ADP	_	_	14	case	14:case	_
+9	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	fixed	8:fixed	_
+10	не	не	PART	_	_	12	advmod	12:advmod	_
+11	в	в	ADP	_	_	12	case	12:case	_
+12	меру	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	13:obl	_
+13	многочисленных	многочисленный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	14:amod	_
+14	плодов	плод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	7:nmod	_
+15	цивилизации	цивилизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	5:punct	_
+
+# sent_id = 2011Tekhnologii.xml_74
+# text = Правда, пока не наша церковь, а англиканская.
+1	Правда	правда	ADV	_	Degree=Pos	6	parataxis	6:parataxis	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	пока	пока	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+4	не	не	PART	_	_	5	advmod	5:advmod	_
+5	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing	6	det	6:det	_
+6	церковь	церковь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	9:punct	_
+8	а	а	CCONJ	_	_	9	cc	9:cc	_
+9	англиканская	англиканский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	conj	6:conj	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	6:punct	_
+
+# sent_id = 2011Tekhnologii.xml_75
+# text = Епископы с Альбиона призвали верующих британцев во время Великого поста осваивать новые формы воздержания - отказаться от использования современной техники и электроники.
+1	Епископы	епископ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_
+2	с	с	ADP	_	_	3	case	3:case	_
+3	Альбиона	Альбион	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
+4	призвали	призвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	верующих	веровать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	6:amod	_
+6	британцев	британец	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obj	4:obj	_
+7	во	во	ADP	_	_	10	case	10:case	_
+8	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	fixed	7:fixed	_
+9	Великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	10:amod	_
+10	поста	пост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	11:obl	_
+11	осваивать	осваивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	4:xcomp	_
+12	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	13:amod	_
+13	формы	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	11:obj	_
+14	воздержания	воздержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	13:nmod	_
+15	-	-	PUNCT	_	_	16	punct	16:punct	_
+16	отказаться	отказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	13	parataxis	13:parataxis	_
+17	от	от	ADP	_	_	18	case	18:case	_
+18	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	16:obl	_
+19	современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	20:amod	_
+20	техники	техника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	18:nmod	_
+21	и	и	CCONJ	_	_	22	cc	22:cc	_
+22	электроники	электроника	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	20:conj	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2011Tekhnologii.xml_76
+# text = Для сегодняшнего человека это намного труднее, нежели просто не есть мяса, считают представители духовенства.
+1	Для	для	ADP	_	_	3	case	3:case	_
+2	сегодняшнего	сегодняшний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
+3	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+5	намного	намного	ADV	_	Degree=Pos	6	advmod	6:advmod	_
+6	труднее	трудный	ADJ	_	Degree=Cmp	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	11:punct	_
+8	нежели	нежели	SCONJ	_	_	11	mark	11:mark	_
+9	просто	просто	PART	_	_	10	advmod	10:advmod	_
+10	не	не	PART	_	_	11	advmod	11:advmod	_
+11	есть	есть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	advcl	6:advcl	_
+12	мяса	мясо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	11:obl	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	14:punct	_
+14	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	6:parataxis	_
+15	представители	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	14:nsubj	_
+16	духовенства	духовенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	15:nmod	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	6:punct	_
