@@ -1,0 +1,259 @@
+
+1	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	12:nsubj	_
+2	Нилл	Нилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	4:punct	_
+4	организатор	организатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	2:appos	_
+5	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod	_
+6	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+7	Саммерхилл	Саммерхилл	PROPN	_	Foreign=Yes	5	appos	5:appos	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	7:punct	_
+9	в	в	ADP	_	_	10	case	10:case	_
+10	Англии	Англия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
+11	,	,	PUNCT	_	_	1	punct	1:punct	_
+12	говорил	говорить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	12:punct	_
+14	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+15	Не	не	PART	_	_	16	advmod	16:advmod	_
+16	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	12:parataxis	_
+17	ленивых	ленивый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	18:amod	_
+18	учеников	ученик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nsubj	16:nsubj	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	20:punct	_
+20	бывают	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	16:conj	_
+21	скучные	скучный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	22:amod	_
+22	школы	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	20:nsubj	SpaceAfter=No
+23	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+24	.	.	PUNCT	_	_	12	punct	12:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_88
+# text = Эти слова можно считать девизом обширного семейства школ, относящих себя к категории "свободных".
+1	Эти	этот	DET	_	Case=Acc|Number=Plur	2	det	2:det	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	4:obj	_
+3	можно	можно	ADV	_	Degree=Pos	0	root	0:root	_
+4	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	3:csubj	_
+5	девизом	девиз	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	4:obl	_
+6	обширного	обширный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_
+7	семейства	семейство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	5:nmod	_
+8	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	10:punct	_
+10	относящих	относить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	8:acl	_
+11	себя	себя	PRON	_	Case=Acc	10	obj	10:obj	_
+12	к	к	ADP	_	_	13	case	13:case	_
+13	категории	категория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	10:obl	_
+14	"	"	PUNCT	_	_	15	punct	15:punct	SpaceAfter=No
+15	свободных	свободный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	nmod	13:nmod	SpaceAfter=No
+16	"	"	PUNCT	_	_	15	punct	15:punct	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_89
+# text = Обычно они являются частными, поскольку с трудом вписываются в административные рамки любого государства.
+1	Обычно	обычно	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	3	nsubj	3:nsubj	_
+3	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+4	частными	частный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	3	obl	3:obl	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	9:punct	_
+6	поскольку	поскольку	SCONJ	_	_	9	mark	9:mark	_
+7	с	с	ADP	_	_	8	case	8:case	_
+8	трудом	труд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	9:obl	_
+9	вписываются	вписываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	3:advcl	_
+10	в	в	ADP	_	_	12	case	12:case	_
+11	административные	административный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	12:amod	_
+12	рамки	рамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obl	9:obl	_
+13	любого	любой	DET	_	Case=Gen|Gender=Neut|Number=Sing	14	det	14:det	_
+14	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	12:nmod	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	3:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_90
+# text = Для "свободных школ" в порядке вещей предоставлять возможность школьникам любого возраста самостоятельно решать, что им делать, когда, где и как заниматься выбранным делом.
+1	Для	для	ADP	_	_	4	case	4:case	_
+2	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+3	свободных	свободный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	4:amod	_
+4	школ	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	4:punct	_
+6	в	в	ADP	_	_	7	case	7:case	_
+7	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	0:root	_
+8	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	7:nmod	_
+9	предоставлять	предоставлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	7:csubj	_
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	_
+11	школьникам	школьник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	9	iobj	9:iobj	_
+12	любого	любой	DET	_	Case=Gen|Gender=Masc|Number=Sing	13	det	13:det	_
+13	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod	_
+14	самостоятельно	самостоятельно	ADV	_	Degree=Pos	15	advmod	15:advmod	_
+15	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	obl	10:obl	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	19:punct	_
+17	что	что	PRON	_	Case=Acc	19	obj	19:obj	_
+18	им	он	PRON	_	Case=Ins|Number=Plur|Person=3	19	obl	19:obl	_
+19	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	15:conj	SpaceAfter=No
+20	,	,	PUNCT	_	_	26	punct	26:punct	_
+21	когда	когда	ADV	_	Degree=Pos	26	advmod	26:advmod	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	21:punct	_
+23	где	где	ADV	_	Degree=Pos	21	conj	21:conj	_
+24	и	и	CCONJ	_	_	25	cc	25:cc	_
+25	как	как	ADV	_	Degree=Pos	21	conj	21:conj	_
+26	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	conj	15:conj	_
+27	выбранным	выбрать	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	amod	28:amod	_
+28	делом	дело	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	26:obl	SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	7:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_91
+# text = При этом все учатся с большой охотой и полной концентрацией внимания.
+1	При	при	ADP	_	_	2	case	2:case	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+3	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur	4	nsubj	4:nsubj	_
+4	учатся	учиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+5	с	с	ADP	_	_	7	case	7:case	_
+6	большой	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	_
+7	охотой	охота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	4:obl	_
+8	и	и	CCONJ	_	_	10	cc	10:cc	_
+9	полной	полный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	10:amod	_
+10	концентрацией	концентрация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	conj	7:conj	_
+11	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_92
+# text = Взрослые и дети собираются вместе по своей инициативе, что-то обсуждают, читают, играют, работают в мастерских.
+1	Взрослые	взрослый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_
+2	и	и	CCONJ	_	_	3	cc	3:cc	_
+3	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	1:conj	_
+4	собираются	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
+5	вместе	вместе	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+6	по	по	ADP	_	_	8	case	8:case	_
+7	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	8	det	8:det	_
+8	инициативе	инициатива	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	11:punct	_
+10	что-то	что-то	PRON	_	Case=Acc	11	obj	11:obj	_
+11	обсуждают	обсуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	13:punct	_
+13	читают	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	15:punct	_
+15	играют	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	17:punct	_
+17	работают	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	_
+18	в	в	ADP	_	_	19	case	19:case	_
+19	мастерских	мастерская	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	obl	17:obl	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	4:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_93
+# text = В одно и то же время кто-то может изучать химию, математику или другой предмет, кто-то играть в шахматы, а кто-то - заниматься обустройством общей жизни.
+1	В	в	ADP	_	_	6	case	6:case	_
+2	одно	один	DET	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	6:amod	_
+3	и	и	CCONJ	_	_	4	cc	4:cc	_
+4	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	2:det	_
+5	же	же	PART	_	_	4	advmod	4:advmod	_
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	8:obl	_
+7	кто-то	кто-то	PRON	_	Case=Nom	8	nsubj	8:nsubj	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	изучать	изучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	8:xcomp	_
+10	химию	химия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	9:obj	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	12:punct	_
+12	математику	математика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	10:conj	_
+13	или	или	CCONJ	_	_	15	cc	15:cc	_
+14	другой	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	15:amod	_
+15	предмет	предмет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	conj	10:conj	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	17:punct	_
+17	кто-то	кто-то	PRON	_	Case=Nom	8	conj	17.1:nsubj	_
+17.1	_	_	_	_	_	_	_	8:conj	_
+18	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	orphan	17.1:xcomp	_
+19	в	в	ADP	_	_	20	case	20:case	_
+20	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obl	18:obl	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	23:punct	_
+22	а	а	CCONJ	_	_	23	cc	24.1:cc	_
+23	кто-то	кто-то	PRON	_	Case=Nom	8	conj	24.1:nsubj	_
+24	-	-	PUNCT	_	_	25	punct	25:punct	_
+24.1	_	_	_	_	_	_	_	8:conj	_
+25	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	23	orphan	24.1:xcomp	_
+26	обустройством	обустройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	25:obl	_
+27	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	28:amod	_
+28	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	26:nmod	SpaceAfter=No
+29	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_94
+# text = Но, как ни странно, свобода выбора вовсе не приводит к тому, что ученики делают лишь то, что им легко дается.
+1	Но	но	CCONJ	_	_	11	cc	11:cc	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	как	как	ADV	_	Degree=Pos	5	obl	5:obl	_
+4	ни	ни	PART	_	_	5	advmod	5:advmod	_
+5	странно	странный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	parataxis	11:parataxis	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	свобода	свобода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	11:nsubj	_
+8	выбора	выбор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod	_
+9	вовсе	вовсе	ADV	_	Degree=Pos	10	advmod	10:advmod	_
+10	не	не	PART	_	_	11	advmod	11:advmod	_
+11	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	к	к	ADP	_	_	13	case	13:case	_
+13	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	obl	11:obl	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	17:punct	_
+15	что	что	SCONJ	_	_	17	mark	17:mark	_
+16	ученики	ученик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	17:nsubj	_
+17	делают	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	13:acl	_
+18	лишь	лишь	PART	_	_	19	advmod	19:advmod	_
+19	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	17:obj	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	24:punct	_
+21	что	что	SCONJ	_	_	24	mark	24:mark	_
+22	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	24	iobj	24:iobj	_
+23	легко	легко	ADV	_	Degree=Pos	24	advmod	24:advmod	_
+24	дается	даваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	acl	19:acl	SpaceAfter=No
+25	.	.	PUNCT	_	_	11	punct	11:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_95
+# text = Опыт показывает, что дети сами хотят знать свои сильные и слабые стороны и готовы упорно работать над собственным развитием.
+1	Опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+2	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	7:punct	_
+4	что	что	SCONJ	_	_	7	mark	7:mark	_
+5	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	7:nsubj	_
+6	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	obl	7:obl	_
+7	хотят	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	_
+8	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	_
+9	свои	свой	DET	_	Case=Acc|Number=Plur	13	det	13:det	_
+10	сильные	сильный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	13:amod	_
+11	и	и	CCONJ	_	_	12	cc	12:cc	_
+12	слабые	слабый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	conj	10:conj	_
+13	стороны	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	8:obj	_
+14	и	и	CCONJ	_	_	15	cc	15:cc	_
+15	готовы	готовый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	7	conj	7:conj	_
+16	упорно	упорно	ADV	_	Degree=Pos	17	advmod	17:advmod	_
+17	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	_
+18	над	над	ADP	_	_	20	case	20:case	_
+19	собственным	собственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	20	amod	20:amod	_
+20	развитием	развитие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	17:obl	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	2:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_96
+# text = Даже младшие воспитанники "свободной школы" знают, что они и только они сами отвечают за свое образование.
+1	Даже	даже	PART	_	_	2	advmod	2:advmod	_
+2	младшие	младший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	3:amod	_
+3	воспитанники	воспитанник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
+4	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
+5	свободной	свободный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	6:amod	_
+6	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	6:punct	_
+8	знают	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+9	,	,	PUNCT	_	_	16	punct	16:punct	_
+10	что	что	SCONJ	_	_	16	mark	16:mark	_
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	16	nsubj	16:nsubj	_
+12	и	и	CCONJ	_	_	14	cc	14:cc	_
+13	только	только	PART	_	_	14	advmod	14:advmod	_
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	11	conj	11:conj	_
+15	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	14:amod	_
+16	отвечают	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	_
+17	за	за	ADP	_	_	19	case	19:case	_
+18	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	19	det	19:det	_
+19	образование	образование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obl	16:obl	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	8:punct	_
+
+# sent_id = 2013Plody_alternativnogo_prosveshcheniya.xml_97
+# text = Взросление в условиях большой ответственности дает им уверенность в собственных способностях и силах.
+1	Взросление	взросление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+2	в	в	ADP	_	_	3	case	3:case	_
+3	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	nmod	1:nmod	_
+4	большой	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
+5	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	3:nmod	_
+6	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+7	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	6	iobj	6:iobj	_
+8	уверенность	уверенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	_
+9	в	в	ADP	_	_	11	case	11:case	_
+10	собственных	собственный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	11:amod	_
+11	способностях	способность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	nmod	8:nmod	_
+12	и	и	CCONJ	_	_	13	cc	13:cc	_
+13	силах	сила	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	conj	11:conj	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	6:punct	_

@@ -1,0 +1,29 @@
+#first match identical proper markables
+form="proper";form="proper"&text=$1&take_first;100;nopropagate
+#attach reflexives first
+func=/refl/;func=/nsubj/&sameparent&take_first;0;propagate
+#propagate entity type across apposition; first if entity is same, then for non-organizations to prevent "politician (party)" being appos identical
+func="appos"&pos!="NUM"&anytext;has_child_func="appos"&entity=$1&anytext&anyagree&take_first;0;propagate
+
+#prefer pronouns to corefer to identical pronouns in same or previous sentence
+form="pronoun";text=$1&!sameparent*;0;propagate
+#prefer pronouns to corefer to subjects in previous sentence
+form="pronoun";func=/nsubj/&!sameparent*;1;propagate
+#allow coreference between nouns and their nsubj dependents
+pos=/N(PROP)?/&has_child_func!="neg";func=/nsubj/&head=$1&anytext&anyagree;0;propagate
+#default rule
+none;none;15;nopropagate
+
+
+#propagate entity type across apposition
+func=/appos/;child=$1&anytext&anyagree&takefirst;0;propagate
+func="appos_pat";child=$1&anytext&anyagree&anyentity&anycardinality&takefirst;0;propagate
+
+
+#pronouns of same and other explicit speaker
+form="pronoun"&text=/^([Яя]|[Мм](еня)|[Вв]ы|[Вв]ас)/&speaker!="";form="pronoun"&text=/(Я|я|меня)/&samespeaker&agree=$1&anytext;100;nopropagate
+form="pronoun"&text=/^([Яя]|[Мм](еня))/&speaker!="";form="pronoun"&text=/^([Вв]ы|[Вв]ас)/&!samespeaker&anytext&anyagree;100;nopropagate
+form="pronoun"&text=/^([Вв]ы|[Вв]ас)/&speaker!="";form="pronoun"&text=/^([Яя]|[Мм](еня))/&!samespeaker&anytext&anyagree;100;nopropagate
+#allow coreference between quoted first person and unquoted third person
+form="pronoun"&text=/^([Яя]|[Мм](еня))/&quoted=True;func=/nsubj(pass)?/&text=/[Оо]н/&anytext&anyagree&quoted=False;0;nopropagate
+

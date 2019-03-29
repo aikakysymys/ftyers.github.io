@@ -1,0 +1,29 @@
+Пушкин	person	person/male@	0
+Тагор	person	person/male	0
+друг	person	person/male	0
+Рабиндранат Тагор	person	person/male	0
+жена	person	person/female	0
+письмо	object	object/inanim@	0
+Саша	person	person/male	0
+Рабиндранат	person	person/male	0
+Рабиндранату	person	person/male	0
+Александр Нилл	person	person/male	0
+организатор	person	person/male	0
+школа	organization	organization@	0
+ученик	person	person/male	0
+Эти слова	abstract	abstract	0
+школьник	person	person/male@	0
+все	person	person/plural	0
+Взрослые	person	person/plural	0
+дети	person	person/plural	0
+мастерская	place	place/inanim	0
+ученики	person	person/male	0
+младшие воспитанники	person	person/plural	0
+ученики	person	person/plural	0
+Саммерхилл	organization@	organization	0
+свободная школа	organization	organization@	0
+Англия	place	place/inanim@	0
+воспитанник	person	person/male@	0
+школ	organization	organization/plural	0
+им	person	person/plural	0
+Александр	person	person/male@	0
